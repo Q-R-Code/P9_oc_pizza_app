@@ -36,3 +36,7 @@ Projet 9 - Documentez votre système de gestion de pizzeria
 * Jeu de démo MySQL
 
 ---
+
+### Version ###
+
+- 1.0 
